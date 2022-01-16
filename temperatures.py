@@ -1,8 +1,4 @@
 # Databricks notebook source
-
-
-# COMMAND ----------
-
 # MAGIC %md
 # MAGIC **NOTE**: the following cell _**should**_ fail.
 # MAGIC 
