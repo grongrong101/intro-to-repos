@@ -37,3 +37,7 @@ Cdf["unit"] = "C"
 df = spark.createDataFrame(pd.concat([Fdf, Cdf]))
 
 display(df)
+
+# COMMAND ----------
+
+hello
